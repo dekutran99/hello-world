@@ -1,3 +1,3 @@
 # Hello, World!
 
-Welcome to my code crib!
+Welcome to my code crib.
